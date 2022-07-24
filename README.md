@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agustin Vera</h1>
 <h3 align="center">A creative frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Next.js y Typescript**
+- 🌱 I’m currently learning **Node and express**
 
 - 👨‍💻 All of my projects are available at [https://ronedev.com/](https://ronedev.com/)
 
-- 💬 Ask me about **React, Firebase, Sass**
+- 💬 Ask me about **React, Firebase, Sass, Typescript, Next.js**
 
 - 📫 How to reach me **ronedev25@gmail.com**
 
