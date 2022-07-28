@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Vera</h1>
-<h3 align="center">A creative frontend developer from Argentina</h3>
+<h3 align="center">A creative frontend and soon backend developer from Argentina.</h3>
 
 - 🌱 I’m currently learning **Node and express**
 
