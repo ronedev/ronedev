@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js and Nest.js**
 
-- 👨‍💻 All of my projects are available at [https://ronedev.com/](https://ronedev.com/)
+- 👨‍💻 All of my projects are available at [https://ronedev.tech/](https://ronedev.tech/)
 
 - 💬 Ask me about **React, Node, Sass, Javascript, Typescript, Next.js**
 
