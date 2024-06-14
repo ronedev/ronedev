@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agustin Vera</h1>
-<h3 align="center">A creative frontend and soon backend developer from Argentina.</h3>
+<h3 align="center">A creative frontend and soon FullStack developer from Argentina.</h3>
 
-- 🌱 I’m currently learning **Next.js and Nest.js**
+- 🌱 I’m currently learning **Next.js and Testing**
 
 - 👨‍💻 All of my projects are available at [https://agusdev.tech/](https://agusdev.tech/)
 
-- 💬 Ask me about **React, Node, Sass, Javascript, Typescript, Next.js**
+- 💬 Ask me about **React, Node, Sass, Javascript, Typescript, Next.js, Figma, UX/UI**
 
 - 📫 How to reach me **ronedev25@gmail.com**
 
